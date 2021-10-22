@@ -8,5 +8,4 @@ This code trains the model on time-series of two components of global, beam and 
 The code uses the file GHIBHIDHI_Synth_data.txt as input for global, beam and diffuse clear-sky index training data. This file is mock-up synthetic data.
 
 The code was written by Dr. Joakim Munkhammar, PhD, 2021.
-![image](https://user-images.githubusercontent.com/49065036/138450661-44409506-c736-462e-a879-827f62ff8e87.png)
 
